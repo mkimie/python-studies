@@ -2,7 +2,7 @@
 Curso: Programação Python do Zero ao Avançado + 32 Projetos Reais
 Instrutor: André Iacono
 
-Desafio: Para este desafio, querio que você use a lista 'frutas' do desafio anterior.
+Desafio: Para este desafio, quero que você use a lista 'frutas' do desafio anterior.
 Seu desafio é imprimir o primeiro e o último elemento da lista.
 '''
 
