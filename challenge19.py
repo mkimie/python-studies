@@ -11,9 +11,9 @@ Se a fruta for 'abacate', o loop deve terminar e o programa deve imprimir "Parab
 fruit = ''
 while fruit != 'abacate':
     fruit = input("Enter a fruit: ")
-    continue
-if fruit == 'abacate':
-    print("Congratulations, you got the fruit right!")
+    if fruit.lower() == 'abacate':
+        break
+print("Congratulations, you got the fruit right!")
 
 
 
