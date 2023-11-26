@@ -20,4 +20,4 @@ if exponent:
     print(f"The power of {base} raised to {exponent} is {result}")
 else:
     result = str(potentiation(base))
-    print(f"The power of {base} raised to {exponent} is {result}")
+    print(f"The power of {base} raised to 2 is {result}")
