@@ -9,4 +9,4 @@ multiplication = lambda num1, num2: num1 * num2
 
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
-print(f"The The multiplication between the {num1} and {num2} is {multiplication(num1, num2)}")
+print(f"The multiplication between the {num1} and {num2} is {multiplication(num1, num2)}")
