@@ -17,5 +17,4 @@ def factorial(num):
         return  num * factorial(num-1)
 
 num = int(input("Enter the number: "))
-
 print(f"The factorial of {num} is {factorial(num)}")
